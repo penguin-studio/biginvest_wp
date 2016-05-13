@@ -1,4 +1,4 @@
-<!--<?php $options = tf_variable_exist(get_option( 'theme_settings' )); ?>-->
+<!--<?php //$options = tf_variable_exist(get_option( 'theme_settings' )); ?>-->
 
 
 
@@ -30,8 +30,8 @@
 	</div>
 </footer>
 
-<script src="<?php echo $theme_path_uri; ?>/js/lib/jquery.min.js"></script>
-<script src="<?php echo $theme_path_uri; ?>/js/common.min.js"></script>
+<script src="<?php bloginfo('template_url'); ?>/js/lib/jquery.min.js"></script>
+<script src="<?php bloginfo('template_url'); ?>/js/common.js"></script>
 
 <?php wp_footer(); ?>
 </body>

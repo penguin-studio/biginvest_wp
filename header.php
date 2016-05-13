@@ -54,12 +54,12 @@
     <nav class="bi-main-nav">
         <div class="container">
             <ul class="bi-main-nav__list">
-                <li><a href="">Forex брокеры</a></li>
-                <li><a href="">Бинарные брокеры</a></li>
-                <li><a href="">Рейтинг казино</a></li>
-                <li><a href="">Рейтинг банков</a></li>
-                <li><a href="">Рейтинг букмекерских контор</a></li>
-                <li><a href="">Рейтинг лотерей</a></li>
+                <li><a href="#">Forex брокеры</a></li>
+                <li><a href="#">Бинарные брокеры</a></li>
+                <li><a href="#">Рейтинг казино</a></li>
+                <li><a href="#">Рейтинг банков</a></li>
+                <li><a href="#">Рейтинг букмекерских контор</a></li>
+                <li><a href="#">Рейтинг лотерей</a></li>
             </ul>
         </div>
     </nav>
@@ -67,7 +67,7 @@
 <section class="bi-banner-rewievs">
     <div class="container">
         <div class="bi-banner-wrapp">
-            <img src="images/banner.jpg" alt="banner" height="138" width="862">
+            <img src="<?php bloginfo('template_url'); ?>/images/banner.jpg" alt="banner" height="138" width="862">
         </div>
         <div class="bi-rewievs">
             <h2 class="bi-rewievs__title">Последние отзывы</h2>

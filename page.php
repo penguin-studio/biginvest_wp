@@ -17,7 +17,7 @@
 		<tr>
 			<td>1</td>
 			<td>
-				<img src="/images/1.jpg" alt="" width="177" height="58">
+				<img src="<?php bloginfo('template_url'); ?>/images/1.jpg" alt="" width="177" height="58">
 				<a href="#">Подробнее</a>
 				<div class="bi-hover-decription">
 					<p><span>Статус:</span> Рекомендованный брокер<br>
@@ -52,7 +52,7 @@
 		<tr>
 			<td>2</td>
 			<td>
-				<img src="images/1.jpg" alt="" width="177" height="58">
+				<img src="<?php bloginfo('template_url'); ?>/images/1.jpg" alt="" width="177" height="58">
 				<a href="#">Подробнее</a>
 				<div class="bi-hover-decription">
 					<p><span>Статус:</span> Рекомендованный брокер<br>
@@ -87,7 +87,7 @@
 		<tr>
 			<td>3</td>
 			<td>
-				<img src="images/1.jpg" alt="" width="177" height="58">
+				<img src="<?php bloginfo('template_url'); ?>/images/1.jpg" alt="" width="177" height="58">
 				<a href="#">Подробнее</a>
 				<div class="bi-hover-decription">
 					<p><span>Статус:</span> Рекомендованный брокер<br>
@@ -122,7 +122,7 @@
 		<tr>
 			<td>4</td>
 			<td>
-				<img src="images/1.jpg" alt="" width="177" height="58">
+				<img src="<?php bloginfo('template_url'); ?>/images/1.jpg" alt="" width="177" height="58">
 				<a href="#">Подробнее</a>
 				<div class="bi-hover-decription">
 					<p><span>Статус:</span> Рекомендованный брокер<br>
@@ -157,7 +157,7 @@
 		<tr>
 			<td>5</td>
 			<td>
-				<img src="images/1.jpg" alt="" width="177" height="58">
+				<img src="<?php bloginfo('template_url'); ?>/images/1.jpg" alt="" width="177" height="58">
 				<a href="#">Подробнее</a>
 				<div class="bi-hover-decription">
 					<p><span>Статус:</span> Рекомендованный брокер<br>
@@ -192,7 +192,7 @@
 		<tr>
 			<td>6</td>
 			<td>
-				<img src="images/1.jpg" alt="" width="177" height="58">
+				<img src="<?php bloginfo('template_url'); ?>/images/1.jpg" alt="" width="177" height="58">
 				<a href="#">Подробнее</a>
 				<div class="bi-hover-decription">
 					<p><span>Статус:</span> Рекомендованный брокер<br>
@@ -227,7 +227,7 @@
 		<tr>
 			<td>7</td>
 			<td>
-				<img src="images/1.jpg" alt="" width="177" height="58">
+				<img src="<?php bloginfo('template_url'); ?>/images/1.jpg" alt="" width="177" height="58">
 				<a href="#">Подробнее</a>
 				<div class="bi-hover-decription">
 					<p><span>Статус:</span> Рекомендованный брокер<br>
@@ -262,7 +262,7 @@
 		<tr>
 			<td>8</td>
 			<td>
-				<img src="images/1.jpg" alt="" width="177" height="58">
+				<img src="<?php bloginfo('template_url'); ?>/images/1.jpg" alt="" width="177" height="58">
 				<a href="#">Подробнее</a>
 				<div class="bi-hover-decription">
 					<p><span>Статус:</span> Рекомендованный брокер<br>
@@ -297,7 +297,7 @@
 		<tr>
 			<td>9</td>
 			<td>
-				<img src="images/1.jpg" alt="" width="177" height="58">
+				<img src="<?php bloginfo('template_url'); ?>/images/1.jpg" alt="" width="177" height="58">
 				<a href="#">Подробнее</a>
 				<div class="bi-hover-decription">
 					<p><span>Статус:</span> Рекомендованный брокер<br>
@@ -332,7 +332,7 @@
 		<tr>
 			<td>10</td>
 			<td>
-				<img src="images/1.jpg" alt="" width="177" height="58">
+				<img src="<?php bloginfo('template_url'); ?>/images/1.jpg" alt="" width="177" height="58">
 				<a href="#">Подробнее</a>
 				<div class="bi-hover-decription">
 					<p><span>Статус:</span> Рекомендованный брокер<br>
@@ -366,7 +366,7 @@
 		</tr>
 	</table> 
 	<div class="bi-banner-wrapp-nofloat">
-		<img src="images/banner.jpg" alt="banner" height="138" width="862">
+		<img src="<?php bloginfo('template_url'); ?>/images/banner.jpg" alt="banner" height="138" width="862">
 	</div>
 
 	<h2 class="bi-title">Бинарные брокеры</h2>
@@ -385,7 +385,7 @@
 		<tr>
 			<td>1</td>
 			<td>
-				<img src="images/1.jpg" alt="" width="177" height="58">
+				<img src="<?php bloginfo('template_url'); ?>/images/1.jpg" alt="" width="177" height="58">
 				<a href="#">Подробнее</a>
 				<div class="bi-hover-decription">
 					<p><span>Статус:</span> Рекомендованный брокер<br>
@@ -420,7 +420,7 @@
 		<tr>
 			<td>2</td>
 			<td>
-				<img src="images/1.jpg" alt="" width="177" height="58">
+				<img src="<?php bloginfo('template_url'); ?>/images/1.jpg" alt="" width="177" height="58">
 				<a href="#">Подробнее</a>
 				<div class="bi-hover-decription">
 					<p><span>Статус:</span> Рекомендованный брокер<br>
@@ -455,7 +455,7 @@
 		<tr>
 			<td>3</td>
 			<td>
-				<img src="images/1.jpg" alt="" width="177" height="58">
+				<img src="<?php bloginfo('template_url'); ?>/images/1.jpg" alt="" width="177" height="58">
 				<a href="#">Подробнее</a>
 				<div class="bi-hover-decription">
 					<p><span>Статус:</span> Рекомендованный брокер<br>
@@ -490,7 +490,7 @@
 		<tr>
 			<td>4</td>
 			<td>
-				<img src="images/1.jpg" alt="" width="177" height="58">
+				<img src="<?php bloginfo('template_url'); ?>/images/1.jpg" alt="" width="177" height="58">
 				<a href="#">Подробнее</a>
 				<div class="bi-hover-decription">
 					<p><span>Статус:</span> Рекомендованный брокер<br>
@@ -525,7 +525,7 @@
 		<tr>
 			<td>5</td>
 			<td>
-				<img src="images/1.jpg" alt="" width="177" height="58">
+				<img src="<?php bloginfo('template_url'); ?>/images/1.jpg" alt="" width="177" height="58">
 				<a href="#">Подробнее</a>
 				<div class="bi-hover-decription">
 					<p><span>Статус:</span> Рекомендованный брокер<br>
@@ -560,7 +560,7 @@
 		<tr>
 			<td>6</td>
 			<td>
-				<img src="images/1.jpg" alt="" width="177" height="58">
+				<img src="<?php bloginfo('template_url'); ?>/images/1.jpg" alt="" width="177" height="58">
 				<a href="#">Подробнее</a>
 				<div class="bi-hover-decription">
 					<p><span>Статус:</span> Рекомендованный брокер<br>
@@ -595,7 +595,7 @@
 		<tr>
 			<td>7</td>
 			<td>
-				<img src="images/1.jpg" alt="" width="177" height="58">
+				<img src="<?php bloginfo('template_url'); ?>/images/1.jpg" alt="" width="177" height="58">
 				<a href="#">Подробнее</a>
 				<div class="bi-hover-decription">
 					<p><span>Статус:</span> Рекомендованный брокер<br>
@@ -630,7 +630,7 @@
 		<tr>
 			<td>8</td>
 			<td>
-				<img src="images/1.jpg" alt="" width="177" height="58">
+				<img src="<?php bloginfo('template_url'); ?>/images/1.jpg" alt="" width="177" height="58">
 				<a href="#">Подробнее</a>
 				<div class="bi-hover-decription">
 					<p><span>Статус:</span> Рекомендованный брокер<br>
@@ -665,7 +665,7 @@
 		<tr>
 			<td>9</td>
 			<td>
-				<img src="images/1.jpg" alt="" width="177" height="58">
+				<img src="<?php bloginfo('template_url'); ?>/images/1.jpg" alt="" width="177" height="58">
 				<a href="#">Подробнее</a>
 				<div class="bi-hover-decription">
 					<p><span>Статус:</span> Рекомендованный брокер<br>
@@ -700,7 +700,7 @@
 		<tr>
 			<td>10</td>
 			<td>
-				<img src="images/1.jpg" alt="" width="177" height="58">
+				<img src="<?php bloginfo('template_url'); ?>/images/1.jpg" alt="" width="177" height="58">
 				<a href="#">Подробнее</a>
 				<div class="bi-hover-decription">
 					<p><span>Статус:</span> Рекомендованный брокер<br>
@@ -734,5 +734,6 @@
 		</tr>
 	</table> 
 </div>
+<?php get_sidebar(); ?>
 
 <?php get_footer(); ?>
