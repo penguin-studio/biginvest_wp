@@ -9,12 +9,7 @@
 	<div class="container">
 		<nav class="bi-main-nav">
 			<ul class="bi-main-nav__list">
-				<li><a href="">Forex брокеры</a></li>
-				<li><a href="">Бинарные брокеры</a></li>
-				<li><a href="">Рейтинг казино</a></li>
-				<li><a href="">Рейтинг банков</a></li>
-				<li><a href="">Рейтинг букмекерских контор</a></li>
-				<li><a href="">Рейтинг лотерей</a></li>
+				<?php wp_nav_menu(array('menu' => 'bi-nav_footer', 'menu_class' => 'bi-nav_footer')); ?>
 			</ul>
 		</nav>
 		<div class="bi-header-wrapp__right">
