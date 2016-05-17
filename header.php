@@ -38,10 +38,7 @@
             </div>
             <div class="bi-header-wrapp__right">
                 <div class="bi-exchange">
-                <?php
-                    $ex_rates = new EX_rates();
-                    var_dump($ex_rates-> coursesInArray());
-                ?>
+                    вывод курсов валют
                 </div>
                 <nav class="bi-social">
                     <ul class="bi-social__list">
