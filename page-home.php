@@ -1,10 +1,16 @@
+<?php
+/*
+Template Name: Шаблон главной страницы
+*/
+?>
+
 <?php get_header();?>
 
 <div class="bi-main-content">
-	<?php if(!is_single()):?>
-		<h2 class="bi-title"><?php the_title(); ?></h2>
-	<?php endif; ?>
-	<?php if ( have_posts() ) : ?>
+	<?php
+    	get_template_part('content/content-home');
+    ?>
+    <?php if ( have_posts() ) : ?>
 		<?php while ( have_posts() ) : the_post();?>
 			<?php the_content(); ?>
 	<?php
